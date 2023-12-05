@@ -1,0 +1,51 @@
+source;target
+sport Bikes;Honda
+sport Bikes;Yamaha
+sport Bikes;Suzuki
+sport Bikes;Kawasaki
+sport Bikes;BMW Motorrad
+sport Bikes;Ducati
+sport Bikes;Aprilia
+sport Bikes;Dafra
+sport Bikes;Triumph
+sport Bikes;Benelli
+Cruises Bikes;Honda
+Cruises Bikes;Yamaha
+Cruises Bikes;Suzuki
+Cruises Bikes;Kawasaki
+Cruises Bikes;BMW Motorrad
+Cruises Bikes;Ducati
+Cruises Bikes;Aprilia
+Cruises Bikes;Benelli
+Cruises Bikes;Moto Guzzi
+Cruises Bikes;Triumph
+Scooters;Honda
+Scooters;Yamaha
+Scooters;Suzuki
+Scooters;Kawasaki
+Scooters;BMW Motorrad
+Scooters;Ducati
+Scooters;Aprilia
+Scooters;Dafra
+Scooters;Triumph
+Scooters;Benelli
+Electric Bikes;Zeo Motorcycles
+Electric Bikes;Dafra
+Electric Bikes;Harley Davidson
+Electric Bikes;Royal Enfield
+Electric Bikes;Mv Agusta
+Naked Bikes;Honda
+Naked Bikes;Yamaha
+Naked Bikes;Suzuki
+Naked Bikes;Kawasaki
+Naked Bikes;BMW Motorrad
+Naked Bikes;Ducati
+Naked Bikes;Aprilia
+Naked Bikes;Dafra
+Naked Bikes;Triumph
+Naked Bikes;Benelli
+Adventure Bikes;Ducati
+Adventure Bikes;Aprilia
+Adventure Bikes;Dafra
+Adventure Bikes;Triumph
+Adventure Bikes;Benelli
